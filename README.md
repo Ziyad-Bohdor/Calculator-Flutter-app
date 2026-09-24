@@ -1,17 +1,90 @@
-# calculator_app
+# 🧮 Flutter Calculator
 
-A new Flutter project.
+A simple and clean calculator application built with **Flutter** and **Dart**.
 
-## Getting Started
+This project was created to practice Flutter UI development, state management with `setState`, custom widgets, callbacks, and implementing calculator logic.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* Basic arithmetic operations:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+  * Addition `+`
+  * Subtraction `-`
+  * Multiplication `×`
+  * Division `÷`
+* Percentage `%`
+* Positive / Negative `+/-`
+* Decimal numbers
+* Clear / Reset `AC`
+* Multiple operations in one expression
+* Operator precedence
+* Division by zero handling
+* Clean number formatting
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 What I Practiced
+
+Through this project, I practiced:
+
+* Flutter Widgets
+* `StatefulWidget`
+* `setState()`
+* Custom Widgets
+* Callbacks
+* `VoidCallback`
+* Passing functions as parameters
+* Lists in Dart
+* Working with `double`
+* Conditional statements and loops
+* Implementing arithmetic logic
+
+## 📱 Example
+
+The calculator correctly handles operator precedence.
+
+```text
+30 + 15 × 2 ÷ 20 - 4
+```
+
+Result:
+
+```text
+27.5
+```
+
+## 🛠️ Technologies
+
+* Flutter
+* Dart
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/flutter_calculator.git
+```
+
+### 2. Open the project
+
+```bash
+cd flutter_calculator
+```
+
+### 3. Get dependencies
+
+```bash
+flutter pub get
+```
+
+### 4. Run the application
+
+```bash
+flutter run
+```
+
+## 👨‍💻 Author
+
+**Ziyad Bohdor**
+
+Flutter Developer
+
