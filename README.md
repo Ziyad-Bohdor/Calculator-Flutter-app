@@ -6,7 +6,7 @@ This project was created to practice Flutter UI development, state management wi
 
 ## 📱 Preview
 
-![Calculator App](assets/Calculator-UI.jpeg)
+[Calculator App](assets/Calculator-UI.jpeg)
 
 ## 🎥 Demo
 
