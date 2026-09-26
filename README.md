@@ -8,6 +8,10 @@ This project was created to practice Flutter UI development, state management wi
 
 ![Calculator App](assets/Calculator-UI.jpeg)
 
+## 🎥 Demo
+
+[![Calculator App Demo]([YOUR_VIDEO_LINK](https://youtube.com/shorts/SgFrgpNQOXc?si=1UeuLPQFKqtiei7d))
+
 ## ✨ Features
 
 * Basic arithmetic operations:
