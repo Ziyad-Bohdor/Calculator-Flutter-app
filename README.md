@@ -10,7 +10,7 @@ This project was created to practice Flutter UI development, state management wi
 
 ## 🎥 Demo
 
-[![Calculator App Demo]((https://youtube.com/shorts/SgFrgpNQOXc?si=1UeuLPQFKqtiei7d))
+[▶️ Watch Calculator Demo](https://youtube.com/shorts/SgFrgpNQOXc?si=1UeuLPQFKqtiei7d)
 
 ## ✨ Features
 
