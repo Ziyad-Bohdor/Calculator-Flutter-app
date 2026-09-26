@@ -4,6 +4,10 @@ A simple and clean calculator application built with **Flutter** and **Dart**.
 
 This project was created to practice Flutter UI development, state management with `setState`, custom widgets, callbacks, and implementing calculator logic.
 
+## 📱 Preview
+
+![Calculator App](assets/Calculator-UI.jpeg)
+
 ## ✨ Features
 
 * Basic arithmetic operations:
