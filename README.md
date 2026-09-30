@@ -6,13 +6,9 @@ This project was created to practice Flutter UI development, state management wi
 
 ## 📱 Preview
 
-<<<<<<< HEAD
 <p align="center"> 
 <img src="assets/Calculator-UI.jpeg" width="220"> 
 </p>
-=======
-[Calculator App Photo](assets/Calculator-UI.jpeg)
->>>>>>> 8b7d10fa1fb50e8ef2460a5ce6f099d849f977d9
 
 ## 🎥 Demo
 
