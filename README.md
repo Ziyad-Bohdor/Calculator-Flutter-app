@@ -6,7 +6,7 @@ This project was created to practice Flutter UI development, state management wi
 
 ## 📱 Preview
 
-<p align="center"> 
+<p align="left"> 
 <img src="assets/Calculator-UI.jpeg" width="220"> 
 </p>
 
